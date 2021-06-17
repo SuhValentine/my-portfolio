@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer base {
+  @font-face {
+    font-family: Handlee;
+    font-weight: 400;
+    src: ('https://fonts.googleapis.com/css2?family=Handlee&display=swap') format("ttf");
+  }
+} */
